@@ -8,9 +8,9 @@
     "url": "git+https://github.com/browserstack/node-appium-app-browserstack.git"
   },
   "scripts": {
-    "sample-test": "browserstack-node-sdk node test/sample_test.js",
-    "sample-local-test": "browserstack-node-sdk node test/sample_local_test.js",
+    "ios-test": "browserstack-node-sdk node test/loginPage_Tests.js",
     "postinstall": "npm update browserstack-node-sdk"
+    
   },
   "keywords": [
     "browserstack",
