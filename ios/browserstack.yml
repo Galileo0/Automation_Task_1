@@ -40,9 +40,9 @@ platforms:
   - deviceName: iPhone 14 Pro
     osVersion: 16
     platformName: ios
-  - deviceName: iPhone 13 Pro
-    osVersion: 15
-    platformName: ios
+  # - deviceName: iPhone 13 Pro
+  #   osVersion: 15
+  #   platformName: ios
   # - deviceName: iPhone XS
   #   osVersion: 14
   #   platformName: ios

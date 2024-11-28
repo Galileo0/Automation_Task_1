@@ -1,0 +1,16 @@
+2024-11-28 22:12:17 - [32minfo[39m: Reading configs from /Users/ahmedzakria/Desktop/Zakaria/Tasks/Automation_Task/node-appium-app-browserstack/ios/browserstack.yml
+2024-11-28 22:12:17 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-11-28 22:12:22 - [32minfo[39m: Local binary started successfully
+2024-11-28 22:12:23 - [32minfo[39m: Using app: bs://aa6788962d60de55250f5e3a1bb7fe71af5377c1
+2024-11-28 22:12:25 - [32minfo[39m: Running /Users/ahmedzakria/Desktop/Zakaria/Tasks/Automation_Task/node-appium-app-browserstack/ios/test/loginPage_Tests.js for
+2024-11-28 22:12:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2024-11-28 22:14:33 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/3d5d28517418221459d3c4d15803f88734f6e584
+2024-11-28 22:14:39 - [32minfo[39m: Local binary stopped
+2024-11-28 23:54:31 - [32minfo[39m: Reading configs from /Users/ahmedzakria/Desktop/Zakaria/Tasks/Automation_Task/node-appium-app-browserstack/ios/browserstack.yml
+2024-11-28 23:54:31 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-11-28 23:54:35 - [32minfo[39m: Local binary started successfully
+2024-11-28 23:54:36 - [32minfo[39m: Using app: bs://aa6788962d60de55250f5e3a1bb7fe71af5377c1
+2024-11-28 23:54:38 - [32minfo[39m: Running /Users/ahmedzakria/Desktop/Zakaria/Tasks/Automation_Task/node-appium-app-browserstack/ios/test/loginPage_Tests.js for
+2024-11-28 23:54:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2024-11-28 23:56:47 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/507e6115f68eb83490f9ebf7ac4a9660f7bbb7a7
+2024-11-28 23:56:51 - [32minfo[39m: Local binary stopped
